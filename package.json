@@ -1,0 +1,22 @@
+{
+  "name": "@agilatech/lynxari-cozir5-device",
+  "version": "0.10.0",
+  "description": "COZIR5 CO2 gas device driver for use in the Agilatech Lynxari system",
+  "main": "cozir5-scout.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agilatech/lynxari-cozir5-device.git"
+  },
+  "keywords": [
+    "sensor",
+    "CO2",
+    "Carbon Dioxide",
+    "CO2Meter",
+    "COZIR 5"
+  ],
+  "author": "Agilatech <scott@agilatech.com> (http://agilatech.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@agilatech/cozir5": "*"
+  }
+}

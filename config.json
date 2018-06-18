@@ -1,0 +1,7 @@
+{
+    "streamPeriod": 10000,
+    "devicePoll": 1000,
+    "deltaPercent": 5,
+    "file":"/dev/ttyS2",
+    "co2_range":1600
+}
